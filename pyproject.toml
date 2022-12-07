@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "cli-template-py"
-version = "0.2.0"
+name = "multiprocessing"
+version = "0.1.0"
 description = ""
 authors = ["andrzej <andrzej.ostromecki@gmail.com>"]
 readme = "README.md"
-packages = [{include = "cli_template_py"}]
+packages = [{include = "multiprocessing"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
